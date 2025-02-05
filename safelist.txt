@@ -1,0 +1,15 @@
+badge-info
+badge-success
+badge-error
+badge-accent
+badge-primary
+badge-secondary
+link-info
+link-success
+link-error
+link-accent
+link-primary
+link-secondary
+
+justify-between
+select-bordered
